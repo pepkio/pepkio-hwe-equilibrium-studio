@@ -1,0 +1,23 @@
+{
+  "upload_type": "software",
+  "access_right": "open",
+  "title": "pepkio-hwe-equilibrium-studio v0.1.0 – a Python client for Hardy-Weinberg equilibrium testing via the Pepkio life-science calculator suite",
+  "description": "Depositing **pepkio-hwe-equilibrium-studio** on Zenodo establishes a reproducible calculation pipeline for multiallelic Hardy–Weinberg equilibrium tests, inbreeding coefficients, and Wright–Fisher allele-frequency simulation in population genetics research and teaching. The archived client version pins the programmatic interface to the Pepkio calculator API rather than reimplementing chi-square or exact tests locally. Source code and the issue tracker are maintained at https://github.com/pepkio/pepkio-hwe-equilibrium-studio. The primary interactive platform for the same calculations is the [Pepkio HWE Equilibrium Studio](https://www.pepkio.com/tools/hwe-equilibrium-studio), part of a Pepkio suite of more than thirty web tools covering solution prep, PCR, cell culture, assays, pharmacology, education, and sequence utilities. The Python client supports batch locus processing and integration with Jupyter, Nextflow, and Snakemake without embedding calculator logic locally. Released under the MIT License; Pepkio (https://www.pepkio.com/) develops laboratory calculators and analysis services for life science research.",
+  "notes": "**Suggested citation.** When referencing the archived client in a publication, cite the Zenodo DOI together with the GitHub repository (https://github.com/pepkio/pepkio-hwe-equilibrium-studio) and record the client version (v0.1.0) in methods or supplementary materials.\n\n**Programmatic access.** This client is the recommended interface for scripted calls to the Pepkio HWE Equilibrium Studio API; the interactive web application remains available for manual equilibrium testing and simulation. Calculator logic resides on Pepkio servers; this package transmits parameters and returns structured results only.",
+  "version": "0.1.0",
+  "license": "mit",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Pepkio",
+      "affiliation": "Pepkio"
+    }
+  ],
+  "keywords": [
+    "Python client for lab calculators",
+    "Hardy-Weinberg",
+    "population genetics",
+    "bioinformatics",
+    "reproducible research"
+  ]
+}
