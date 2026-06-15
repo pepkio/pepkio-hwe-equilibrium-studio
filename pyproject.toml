@@ -2,7 +2,7 @@
 name = "pepkio-hwe-equilibrium-studio"
 version = "0.1.0"
 description = "Python client for Hardy-Weinberg equilibrium testing and simulation via the Pepkio API"
-readme = "README.md"
+readme = "README_PYPI.md"
 requires-python = ">=3.11"
 dependencies = [
     "click>=8.4.1",
