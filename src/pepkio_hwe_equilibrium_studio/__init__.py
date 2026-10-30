@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio hwe-equilibrium-studio."""
 
 from .client import PepkioClient
