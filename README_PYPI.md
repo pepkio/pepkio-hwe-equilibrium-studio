@@ -88,3 +88,5 @@ Pepkio develops software tools and provides bioinformatics analysis services for
 # Keywords
 
 Hardy-Weinberg equilibrium, HWE test, multiallelic HWE, population genetics, Guo-Thompson exact test, inbreeding coefficient F, Wright-Fisher simulation, carrier frequency 2pq, genotype counts expected, chi-square Hardy-Weinberg, allele frequency drift, effective population size Ne, microsatellite HWE QC, MN blood group HWE, pepkio-hwe-equilibrium-studio, Python HWE API, REST API population genetics, disease incidence carrier risk, triallelic Hardy-Weinberg test, how to test Hardy-Weinberg for three alleles Python, carrier frequency from 1 in 2500 incidence API, multiallelic genotype HWE without R, Wright-Fisher selection drift simulation script, exact test when expected count below 5, automate Hardy-Weinberg notebook Pepkio, share HWE analysis permalink, population genetics teaching Hardy-Weinberg CLI
+
+A semantic, AI-native version of this document in the K2F format is available at https://k2f.dev (https://k2f.dev/v/0f097983f2ea663a15888257179815a6faf6d43cde7935c1249275fed0b98940)
